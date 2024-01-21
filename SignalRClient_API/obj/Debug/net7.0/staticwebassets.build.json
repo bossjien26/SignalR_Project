@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YHklo3HQuNfL96uycXzFa1DzwA7nm9t67cGLOaj1sao=",
+  "Source": "SignalRClient_API",
+  "BasePath": "_content/SignalRClient_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

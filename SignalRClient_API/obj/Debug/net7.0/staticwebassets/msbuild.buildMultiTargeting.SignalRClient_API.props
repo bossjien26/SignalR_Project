@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/SignalRClient_API.props" />
+</Project>
